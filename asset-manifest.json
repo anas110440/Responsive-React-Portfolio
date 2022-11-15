@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/Responsive-React-Portfolio/static/css/main.e7f3ff79.css",
-    "main.js": "/Responsive-React-Portfolio/static/js/main.aa9e5623.js",
+    "main.css": "/Responsive-React-Portfolio/static/css/main.835de11b.css",
+    "main.js": "/Responsive-React-Portfolio/static/js/main.384f814b.js",
     "static/js/787.b5daa3be.chunk.js": "/Responsive-React-Portfolio/static/js/787.b5daa3be.chunk.js",
     "static/media/color-sharp.png": "/Responsive-React-Portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/Responsive-React-Portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/4.png": "/Responsive-React-Portfolio/static/media/4.20af439c35190428c1d8.png",
+    "static/media/6.png": "/Responsive-React-Portfolio/static/media/6.feb611924dfba6dc5962.png",
+    "static/media/1.png": "/Responsive-React-Portfolio/static/media/1.713faee7aa54c78c339e.png",
     "static/media/banner-bg.png": "/Responsive-React-Portfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/3.png": "/Responsive-React-Portfolio/static/media/3.28414c8e3bbc42754bd3.png",
+    "static/media/5.png": "/Responsive-React-Portfolio/static/media/5.a809242ba121bd0b5699.png",
     "static/media/header-img.svg": "/Responsive-React-Portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/2.png": "/Responsive-React-Portfolio/static/media/2.1ca7bdb2c67964366150.png",
     "static/media/CentraNo2-Bold.ttf": "/Responsive-React-Portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/Responsive-React-Portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/Responsive-React-Portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
-    "static/media/project-img1.png": "/Responsive-React-Portfolio/static/media/project-img1.d593db3f12901bc685c2.png",
     "static/media/footer-bg.png": "/Responsive-React-Portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
-    "static/media/project-img2.png": "/Responsive-React-Portfolio/static/media/project-img2.2e52097c417f9f1134b0.png",
-    "static/media/project-img3.png": "/Responsive-React-Portfolio/static/media/project-img3.675b30d2f975a1bc1d09.png",
     "static/media/contact-img.svg": "/Responsive-React-Portfolio/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
     "static/media/revicons.eot": "/Responsive-React-Portfolio/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/Responsive-React-Portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
@@ -27,12 +30,12 @@
     "static/media/arrow2.svg": "/Responsive-React-Portfolio/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/Responsive-React-Portfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/Responsive-React-Portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.e7f3ff79.css.map": "/Responsive-React-Portfolio/static/css/main.e7f3ff79.css.map",
-    "main.aa9e5623.js.map": "/Responsive-React-Portfolio/static/js/main.aa9e5623.js.map",
+    "main.835de11b.css.map": "/Responsive-React-Portfolio/static/css/main.835de11b.css.map",
+    "main.384f814b.js.map": "/Responsive-React-Portfolio/static/js/main.384f814b.js.map",
     "787.b5daa3be.chunk.js.map": "/Responsive-React-Portfolio/static/js/787.b5daa3be.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7f3ff79.css",
-    "static/js/main.aa9e5623.js"
+    "static/css/main.835de11b.css",
+    "static/js/main.384f814b.js"
   ]
 }
