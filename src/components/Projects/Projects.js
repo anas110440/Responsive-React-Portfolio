@@ -1,8 +1,11 @@
 import { Container, Row, Col, Tab, Nav } from 'react-bootstrap';
 import { ProjectCard } from '../ProjectCard/ProjectCard';
-import projImg1 from '../../assets/img/project-img1.png';
-import projImg2 from '../../assets/img/project-img2.png';
-import projImg3 from '../../assets/img/project-img3.png';
+import projImg1 from '../../assets/img/projcet/1.png';
+import projImg2 from '../../assets/img/projcet/2.png';
+import projImg3 from '../../assets/img/projcet/3.png';
+import projImg4 from '../../assets/img/projcet/4.png';
+import projImg5 from '../../assets/img/projcet/5.png';
+import projImg6 from '../../assets/img/projcet/6.png';
 import colorSharp2 from '../../assets/img/color-sharp2.png';
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -10,33 +13,33 @@ import './style.css';
 export const Projects = () => {
   const projects = [
     {
-      title: 'Business Startup',
-      description: 'Design & Development',
+      title: 'Html Css Js Template',
+      description: 'https://anas110440.github.io/Html-Css-Js-Template/',
       imgUrl: projImg1,
     },
     {
-      title: 'Business Startup',
-      description: 'Design & Development',
+      title: 'Kazoz',
+      description: 'https://anas110440.github.io/Kazoz/',
+      imgUrl: projImg4,
+    },
+    {
+      title: 'React Tempelet',
+      description: 'https://anas110440.github.io/React-Tempelet-AnasCodex/',
+      imgUrl: projImg6,
+    },
+    {
+      title: 'Login Page',
+      description: 'Educational website',
+      imgUrl: projImg5,
+    },
+    {
+      title: 'Admin Dashboard',
+      description: 'Educational website',
       imgUrl: projImg2,
     },
     {
-      title: 'Business Startup',
-      description: 'Design & Development',
-      imgUrl: projImg3,
-    },
-    {
-      title: 'Business Startup',
-      description: 'Design & Development',
-      imgUrl: projImg1,
-    },
-    {
-      title: 'Business Startup',
-      description: 'Design & Development',
-      imgUrl: projImg2,
-    },
-    {
-      title: 'Business Startup',
-      description: 'Design & Development',
+      title: 'Student Dashboard',
+      description: 'Educational website',
       imgUrl: projImg3,
     },
   ];
